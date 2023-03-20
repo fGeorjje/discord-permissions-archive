@@ -1,0 +1,16 @@
+{
+  "name": "discord-channel-archiver",
+  "version": "1.0.0",
+  "description": "A tool to archive Discord channels by transforming role-based access permissions into member based permissions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Schwandes",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "prompts": "^2.4.2",
+    "require-reload": "^0.2.2"
+  }
+}
